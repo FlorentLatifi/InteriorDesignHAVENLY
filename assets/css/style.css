@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    background-color: #fff;
+}
+header{
+    width: 1098px;
+    height: 64px;
+    height: 64px;
+    min-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 64px;
+    height: 64px;
+}
+header:hover{
+    background-color: darkgreen;
+}
+
+.rowhead{
+    width: 520.42px;
+    height: 64px!important;
+}
+.logo{
+    max-height: 64px;
+    max-width: 152.14;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    font-family: Graphik,sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #362b24;
+    letter-spacing: -.4px;
+}
